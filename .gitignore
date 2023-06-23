@@ -1,0 +1,11 @@
+Export/
+data/
+Backup/
+__pycache__/
+Raw/
+test.ipynb
+Channelwidth/
+Centreline_PDF/
+Centreline_CSV/
+.ipynb_checkpoints/
+.DS_Store
